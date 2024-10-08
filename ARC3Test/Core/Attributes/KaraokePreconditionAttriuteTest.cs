@@ -11,8 +11,6 @@ namespace ARC3Test.Core.Attributes;
 [TestClass]
 public class KaraokePreconditionAttributeTest
 {
-
-  private static GuildPermissions noPerms = GuildPermissions.None;
   
   [TestMethod]
   [
